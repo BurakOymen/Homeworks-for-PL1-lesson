@@ -4,7 +4,7 @@
 int main()
 {
   
-  /* Print the SUM of numbers from LOW to HIGH. Test with LOW=3 and HIGH=9. */
+  /* Print the SUM of numbers from LOW to HIGH. */
   
   int low, high, i, sum=0;
   
