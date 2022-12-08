@@ -8,7 +8,7 @@ int main()
   
   int n, j;
   
-  printf("Please enter a number to print its multiplication number\n");
+  printf("Please enter a number to print its multiplication table\n");
   
   scanf("%d", &n);
   
